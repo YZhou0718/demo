@@ -6,4 +6,8 @@ public class Main {
     public void Function1() {
         System.out.println("This is function 1");
     }
+
+    public void Function2() {
+        System.out.println("This is func2");
+    }
 }
